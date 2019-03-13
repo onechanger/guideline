@@ -12,18 +12,31 @@ install `vscode`
 go to vscode extension and install:
 
 `Babel JavaScript`
+
 `Import Cost`
+
 `IntelliSense for CSS class names in HTML`
+
 `JavaScript (ES6) code snippets`
+
 `Mobx/Rematch React Snippets`
+
 `Node.js Modules Intellisense`
+
 `npm Intellisense`
+
 `One Monokai Theme`
+
 `Path Intellisense`
+
 `Prettier - Code formatter`
+
 `Sass`
+
 `SCSS IntelliSense`
+
 `StandardJS - JavaScript Standard Style`
+
 `Visual Studio IntelliCode - Preview`
 
 go to file -> preference -> settings
@@ -69,8 +82,10 @@ temporary variable (CANNOT EXIST PASSED 15 LINES OF CODE) : `let temp, _temp, te
 
 #### Funciton
 
-`// very bad`
-var getArray = function (size) { return new Array(size); }
+    // very bad
+    var getArray = function (size) {
+        return new Array(size);
+    }
 
 #### =>
 
