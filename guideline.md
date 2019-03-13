@@ -11,7 +11,20 @@ produce quality code for better maintenance
 install `vscode`
 go to vscode extension and install:
 
-`Babel JavaScript Import Cost IntelliSense for CSS class names in HTML JavaScript (ES6) code snippets Mobx/Rematch React Snippets Node.js Modules Intellisense npm Intellisense One Monokai Theme Path Intellisense Prettier - Code formatter Sass SCSS IntelliSense StandardJS - JavaScript Standard Style Visual Studio IntelliCode - Preview`
+`Babel JavaScript`
+`Import Cost`
+`IntelliSense for CSS class names in HTML`
+`JavaScript (ES6) code snippets`
+`Mobx/Rematch React Snippets`
+`Node.js Modules Intellisense`
+`npm Intellisense`
+`One Monokai Theme`
+`Path Intellisense`
+`Prettier - Code formatter`
+`Sass`
+`SCSS IntelliSense`
+`StandardJS - JavaScript Standard Style`
+`Visual Studio IntelliCode - Preview`
 
 go to file -> preference -> settings
 search for `FORMAT ON SAVE` and select this option
@@ -49,107 +62,103 @@ temporary variable (CANNOT EXIST PASSED 15 LINES OF CODE) : `let temp, _temp, te
 
 #### Funciton
 
-`// very bad var getArray = function (size) { return new Array(size); }`
+`// very bad`
+var getArray = function (size) { return new Array(size); }
 
 #### =>
 
-`
-// get array version 1
-var getArray = () => {
-return new Array();
-}
+    // get array version 1
+    var getArray = () => {
+       return new Array();
+    }
 
-// get array v2
-var getArray = (size) => {
-return new Array(size);
-}
+    // get array v2
+    var getArray = (size) => {
+        return new Array(size);
+    }
 
-// get array v3
-var getArray = (size = 0) => {
-return new Array(size);
-}
+    // get array v3
+    var getArray = (size = 0) => {
+        return new Array(size);
+    }
 
-// get array v4
-var getArray = (...sizes) => {
-let result = 0;
-for (let i of sizes){
-result += i;
-}
-return new Array(result);
-}
-`
+    // get array v4
+    var getArray = (...sizes) => {
+        let result = 0;
+        for (let i of sizes){
+            result += i;
+        }
+        return new Array(result);
+    }
 
 #### If1
 
-`
-// very bad
-if( 1+1 > 2){
-console.log("wrong")
-}else{
-console.log("corrent");
-}
+    // very bad
+    if( 1+1 > 2){
+        console.log("wrong")
+    }else{
+        console.log("corrent");
+    }
 
-// OK for multi-line
-if(1+1>2){
-let line = "multi-line action";
-line += "action2";
-console.log(line);
-}else{
-console.log("other options");
-}
-`
+    // OK for multi-line
+    if(1+1>2){
+        let line = "multi-line action";
+        line += "action2";
+        console.log(line);
+    }else{
+        console.log("other options");
+    }
 
 #### =>
 
-`
-// v1
-1+1 > 2 ? console.log("wrong") : console.log("correct");
+    // v1
+    1+1 > 2 ? console.log("wrong") : console.log("correct");
 
-//v2
-console.log( 1+1>2 ? "wrong" : "correct" );
-`
+    //v2
+    console.log( 1+1>2 ? "wrong" : "correct" );
 
 #### If2
 
-`// very bad if( 1+1 === 2 ){ console.log("correct"); }`
+    // very bad
+    if( 1+1 === 2 ){
+        console.log("correct");
+    }
 
 #### =>
 
-`if( 1+1 === 2 ) console.log("correct");`
+    if( 1+1 === 2 ) console.log("correct");
 
 #### Backtick
 
-`
-let a = "a", b = "b", c = "c";
+    let a = "a", b = "b", c = "c";
 
-//very bad
-console.log(a+"\t"+b+c);
-`
+    //very bad
+    console.log(a+"\t"+b+c);
 
 #### =>
 
-`
-//v1
-console.log(a,"\t",b,c);
+    //v1
+    console.log(a,"\t",b,c);
 
-//v2
-console.log(\`${a} \t ${b} \${c}\`);
-`
+    //v2
+    console.log(\`${a} \t ${b} \${c}\`);
 
 #### Return
 
-`
-let a = 50;
+    let a = 50;
 
-//very bad
-if(a < 50){
-a = a + 1;
-return a;
-}else{
-return a-50;
-}
-`
+    //very bad
+    if(a < 50){
+        a = a + 1;
+        return a;
+    }else{
+        return a-50;
+    }
 
 #### =>
 
-`if (a < 50) { a = a + 1; return a; } return a - 50;`
+    if (a < 50) {
+        a = a + 1;
+        return a;
+    }
+    return a - 50;
