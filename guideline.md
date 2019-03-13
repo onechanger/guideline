@@ -50,12 +50,19 @@ download git from `https://git-scm.com/`
 ### naming
 
 `--- a name for variable should at least describe the functionality of this varible ---`
+
 temporary variable (CANNOT EXIST PASSED 15 LINES OF CODE) : `let temp, _temp, temporary, tempCounter, tempInt, tempFloat;`
+
 `Object` : `let obj, object, aSet, pair;`
+
 `Boolean` : `let status, condition;`
+
 `Array` : `let array, arr, aList;`
+
 `Integer` : `let num, number, counter, length, aNum, aFloat;`
+
 `String` : `let line, string, words, str;`
+
 `Function` : `var functionDescription = () => {}`
 
 ### Function, If, Backtick, Return
