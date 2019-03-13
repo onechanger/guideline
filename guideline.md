@@ -163,7 +163,7 @@ temporary variable (CANNOT EXIST PASSED 15 LINES OF CODE) : `let temp, _temp, te
     console.log(a,"\t",b,c);
 
     //v2
-    console.log(\`${a} \t ${b} \${c}\`);
+    console.log(`${a} \t ${b} \${c}`);
 
 #### Return
 
