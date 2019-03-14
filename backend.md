@@ -1,4 +1,4 @@
-# Learning curve for frontend web developer
+# Learning curve for backend developer
 
 ## basic requirements:
 
@@ -9,11 +9,6 @@ website that you shall all remember:
 
 `https://www.w3schools.com/html/default.asp`
 from `HTML5 TUTORIAL` to end of `HTML EXAMPLES`
-
-## basic : css
-
-`https://www.w3schools.com/css/default.asp`
-from `CSS Tutorial` to end of `CSS EXAMPLES`
 
 ## basic : javascript
 
@@ -40,24 +35,26 @@ write an example for all the functions
 
 ## Advanced stage 3
 
-Build a workshop, contact me for more details
+Learn npm and yarn
 
 ## Higher level
 
-Learn npm and Sass
+React Js + Mobx
 
 ## Higher level 2
 
-Modify sass package
+React Native
 
 ## Higher level 3
 
-React Js + Mobx
-
-## Higher level 4
-
-React Native
+Nodejs + Mysql
 
 ## Bonus
 
-Animations
+PHP
+
+Redis
+
+Python
+
+...
