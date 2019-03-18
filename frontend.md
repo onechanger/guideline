@@ -61,3 +61,33 @@ React Native
 ## Bonus
 
 Animations
+
+More CSS reference `https://developer.mozilla.org/en-US/docs/Web/CSS`
+
+Button Generator `http://unicorn-ui.com/buttons/builder/`
+
+## Bonus for UI
+
+Bootstrap `https://getbootstrap.com/`
+
+Semantic `https://semantic-ui.com/`
+
+Material `https://material-ui.com/`
+
+Ionic `https://ionicframework.com/docs`
+
+Fabric `https://developer.microsoft.com/en-us/fabric`
+
+Zurb `https://foundation.zurb.com`
+
+React Desktop `http://reactdesktop.js.org/docs/`
+
+## Bonus for Icon Selection
+
+Font Awesome `https://fontawesome.com/`
+
+Material `https://material.io/tools/icons/?style=baseline`
+
+iconmonstr `https://iconmonstr.com/`
+
+icomoon `https://icomoon.io/app/#/select/library`
