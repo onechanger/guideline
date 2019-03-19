@@ -199,3 +199,9 @@ temporary variable (CANNOT EXIST PASSED 15 LINES OF CODE) : `let temp, _temp, te
         return a;
     }
     return a - 50;
+
+## Split
+
+Frontend developer -> visit `frontend.md`
+
+backend developer -> visit `backend.md`
