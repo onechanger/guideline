@@ -6,9 +6,24 @@ produce quality code for better maintenance
 
 ## setup
 
+### Chrome
+
+install `Chrome` from `google.cn/chrome`
+
+go to `crx4chrome.com` and download `Setupvpn`
+
+go to `chrome://extensions/`, turn on the `developer mode`, drag the crx file into the frame, and finish the installation.
+
+register an account for Setupvpn
+
+### Node
+
+go to `http://nodejs.org/` and download `LTS` version of node, and install.
+
 ### vscode
 
-install `vscode`
+install `vscode` from `https://code.visualstudio.com`
+
 go to vscode extension and install:
 
 `Babel JavaScript`

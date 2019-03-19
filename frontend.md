@@ -1,5 +1,9 @@
 # Learning curve for frontend web developer
 
+## Setup Cont.
+
+Download `firefox` browser and `Opera` browser from Google.
+
 ## basic requirements:
 
 website that you shall all remember:
