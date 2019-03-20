@@ -76,7 +76,7 @@ content 内容
 
 continue 继续
 
-cookie
+cookie 本地存储
 
 coordinate 坐标
 
@@ -178,7 +178,7 @@ JavaScript Java Script语言
 
 join 连接、结合
 
-JSON
+JSON  json数据格式(简写)
 
 justify 排列整齐
 
