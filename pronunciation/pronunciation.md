@@ -1,367 +1,367 @@
-abort
+abort 中断、中止
 
-accept
+accept 接受
 
-address
+address 地址
 
-align
+align 排列
 
-animation
+animation 动画
 
-application
+application 应用
 
-area
+area 区域
 
-Array
+Array 数组
 
-async
+async 异步
 
-asynchronously
+asynchronously 异步
 
-attributes
+attributes 属性
 
-background
+background 背景
 
-base
+base 基础
 
-blockquote
+blockquote 标记长的引用
 
-blur
+blur 使模糊
 
-body
+body 身体
 
-bold
+bold 黑体的、更粗的
 
-Boolean
+Boolean 布尔型
 
-border
+border 边框
 
-Bottom
+Bottom 底部
 
-button
+button 按钮
 
-canvas
+canvas  帆布
 
-case
+case 例子
 
-catch
+catch 捕捉
 
-charset
+charset 字符集
 
-children
+children 孩子
 
-classname
+classname 类名
 
-clear
+clear 清除
 
-clickable
+clickable 可点击
 
-client
+client 委托人
 
-Collapse
+Collapse 倒塌
 
-color
+color 颜色
 
-column
+column 行
 
-comment
+comment 评论、意见
 
-concat
+concat 连接
 
-console
+console 控制台
 
-container
+container 容器
 
-content
+content 内容
 
-continue
+continue 继续
 
 cookie
 
-coordinate
+coordinate 坐标
 
-count
+count 记数、数
 
-cursor
+cursor 光标
 
-data
+data 数据
 
-Date
+Date 日期
 
-Decoration
+Decoration 装饰、修饰
 
-default
+default 系统默认值
 
-delete
+delete 删除
 
-detail
+detail 详述
 
-direction
+direction 方向
 
-DOCTYPE
+DOCTYPE 文档类型
 
-download
+download 下载
 
-draggable
+draggable 可拖动的
 
-drop-down
+drop-down 下拉列表
 
-element
+element 元素
 
-enable
+enable 使能够
+ 
+error 错误
 
-error
+event 事件
 
-event
+external 外部
 
-external
+fetch 去拿来
 
-fetch
+filter 过滤器
 
-filter
+flex 弯曲
 
-flex
+float 浮动
 
-float
+flow 流动
 
-flow
+focus 焦点
 
-focus
+font 字体
 
-font
+footer 页脚
+ 
+form 表单
 
-footer
+frame 设计
 
-form
+geolocation 地理定位
 
-frame
+Global 全球的
 
-geolocation
+graphics 图形、图表算法
 
-Global
+grow 生长、发育
 
-graphics
+head 头
 
-grow
+height 高度
 
-head
+hidden 隐藏
 
-height
+highlight 强调
 
-hidden
+history 历史
 
-highlight
+href 连接
 
-history
+hyperlink 超链接
 
-href
+icon 图标
 
-hyperlink
+image 图片
 
-icon
+important 重要的
 
-image
+Indent 缩进
 
-important
+index 指标、指数
 
-Indent
+input 输入
 
-index
+instance 例子
 
-input
+invalid 无效的
 
-instance
+JavaScript Java Script语言
 
-invalid
-
-JavaScript
-
-join
+join 连接、结合
 
 JSON
 
-justify
+justify 排列整齐
 
-label
+label 标签
 
-language
+language 语言
 
-loop
+loop 重复
 
-lowercase
+lowercase 小写字母
 
-machine
+machine 机器装置
 
-margin
+margin 外边框
 
-mark
+mark 标记
 
-Math
+Math 计算算数
 
-max
+max 最大
 
-measurement
+measurement 测量
 
-method
+method 方法
 
-multiline
+multiline 多线
 
-multiple
+multiple 倍数
 
-mute
+mute 消音
 
-navigation
+navigation 航线
+ 
+null 空
 
-null
+Number 数字
 
-Number
+opacity 透明值
 
-opacity
+Operators 操作者
 
-Operators
+order 命令
 
-order
+Orientation 方向
 
-Orientation
+Origin 起源
 
-Origin
+outline 轮廓
 
-outline
+overflow 溢出
+ 
+Overrides 推翻、撤销
 
-overflow
+padding 内边距
 
-Overrides
+parameter 参数
 
-padding
+paste 黏贴
 
-parameter
+pattern 模式
 
-paste
+pause 暂停
 
-pattern
+perspective 立体效果
 
-pause
+placeholder 占位符
 
-perspective
+position 位置
 
-placeholder
+preferences 参数选择
 
-position
+private 私有的
 
-preferences
+promise 承诺、保证
 
-private
+protocol 草案
 
-promise
+readonly 只读的
 
-protocol
+RegExp 正则表达式
 
-readonly
+relative 相对定位
 
-RegExp
+remove 移动
 
-relative
+repeat 重复
 
-remove
+Represent 构成
 
-repeat
+resize 调整大小
 
-Represent
+resources 资源
 
-resize
+resume 简历
 
-resources
+return 返回
 
-resume
+sample 样品
 
-return
+sandbox 沙盘
 
-sample
+scope 范围
 
-sandbox
+screen 屏幕
 
-scope
+search 搜索
 
-screen
+section 部分
 
-search
+Shadow 阴影
 
-section
+Shrink 收缩
 
-Shadow
+size 大小
 
-Shrink
+sound 声音
 
-size
+source 来源
 
-sound
+span 行内元素标签
 
-source
+Specifies 指定
 
-span
+src 来源
 
-Specifies
+Statements 声明
 
-src
+step 步骤
 
-Statements
+Storage 仓库
 
-step
+String 字符串
 
-Storage
+strong 强调文本标签
 
-String
+style 样式
 
-strong
+switch 道岔
 
-style
+table 列表
 
-switch
+tag 标签
 
-table
+target 目标
 
-tag
+template 模板
 
-target
+throw 抛
 
-template
+title 标题
 
-throw
+Transfer 转移
 
-title
+translate 翻译
 
-Transfer
+type 类型
 
-translate
+undefined 不明确的
 
-type
+unload 退出
 
-undefined
+uppercase 大写字母
 
-unload
+validate 生效
 
-uppercase
+value 值
 
-validate
+variable 可变的
 
-value
+versions 版本
 
-variable
+Visibility 能见度
 
-versions
+visible 可见的
 
-Visibility
+wait 等待
 
-visible
+Website 网站
 
-wait
+while 当
 
-Website
+width 宽度
 
-while
+wrap 包装
 
-width
-
-wrap
-
-write
+write 书写
