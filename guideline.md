@@ -93,6 +93,12 @@ temporary variable (CANNOT EXIST PASSED 15 LINES OF CODE) : `let temp, _temp, te
 
 `Function` : `var functionDescription = () => {}`
 
+### naming2
+
+Hidden variable : use `_` at the beginning of the variable name:
+
+Like `let _time, _atom, _loopHelper`
+
 ### Function, If, Backtick, Return
 
 #### Funciton

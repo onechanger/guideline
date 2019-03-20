@@ -51,6 +51,8 @@ Nodejs + Mysql
 
 ## Bonus
 
+Algorithm
+
 PHP
 
 Redis
