@@ -58,7 +58,7 @@ clickable 可点击
 
 client 委托人
 
-Collapse 倒塌
+Collapse 合并、关闭
 
 color 颜色
 
@@ -116,13 +116,13 @@ event 事件
 
 external 外部
 
-fetch 去拿来
+fetch 取
 
 filter 过滤器
 
-flex 弯曲
+flex 弹性
 
-float 浮动
+float 浮点
 
 flow 流动
 
@@ -134,7 +134,7 @@ footer 页脚
  
 form 表单
 
-frame 设计
+frame 框
 
 geolocation 地理定位
 
@@ -178,7 +178,7 @@ JavaScript Java Script语言
 
 join 连接、结合
 
-JSON  json数据格式(简写)
+JSON  json符号对象
 
 justify 排列整齐
 
@@ -208,9 +208,9 @@ multiline 多线
 
 multiple 倍数
 
-mute 消音
+mute 静音
 
-navigation 航线
+navigation 导航栏
  
 null 空
 
@@ -230,7 +230,7 @@ outline 轮廓
 
 overflow 溢出
  
-Overrides 推翻、撤销
+Overrides 复写，重写
 
 padding 内边距
 
@@ -316,7 +316,7 @@ strong 强调文本标签
 
 style 样式
 
-switch 道岔
+switch 分支
 
 table 列表
 
@@ -358,7 +358,7 @@ wait 等待
 
 Website 网站
 
-while 当
+while 当..时候
 
 width 宽度
 
