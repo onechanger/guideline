@@ -39,7 +39,7 @@ Learn npm and yarn
 
 ## Higher level
 
-React Js + Mobx
+React Js + Redux + React-router-dom
 
 ## Higher level 2
 

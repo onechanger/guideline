@@ -57,7 +57,7 @@ Modify sass package
 
 ## Higher level 3
 
-React Js + Mobx
+React Js + Redux + React-router-dom
 
 ## Higher level 4
 
@@ -96,3 +96,9 @@ Material `https://material.io/tools/icons/?style=baseline`
 iconmonstr `https://iconmonstr.com/`
 
 icomoon `https://icomoon.io/app/#/select/library`
+
+## Bonus others
+
+loading `https://loading.io/css/`
+
+color-selector `http://c0bra.github.io/color-scheme-js/`
