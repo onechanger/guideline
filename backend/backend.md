@@ -39,7 +39,7 @@ Learn npm and yarn
 
 ## Higher level
 
-React Js + Redux + React-router-dom
+React Js + Redux + React-router-dom (Unidirectional Data Flow)
 
 ## Higher level 2
 

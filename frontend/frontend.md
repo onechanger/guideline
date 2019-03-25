@@ -57,7 +57,7 @@ Modify sass package
 
 ## Higher level 3
 
-React Js + Redux + React-router-dom
+React Js + Redux + React-router-dom (Unidirectional Data Flow)
 
 ## Higher level 4
 
@@ -81,6 +81,10 @@ Material `https://material-ui.com/`
 
 Ionic `https://ionicframework.com/docs`
 
+UIkit `https://getuikit.com/docs/introduction`
+
+Blueprint `https://blueprintjs.com/docs/`
+
 Fabric `https://developer.microsoft.com/en-us/fabric`
 
 Zurb `https://foundation.zurb.com`
@@ -102,3 +106,5 @@ icomoon `https://icomoon.io/app/#/select/library`
 loading `https://loading.io/css/`
 
 color-selector `http://c0bra.github.io/color-scheme-js/`
+
+Drag and Drop `http://react-dnd.github.io/react-dnd/about`
