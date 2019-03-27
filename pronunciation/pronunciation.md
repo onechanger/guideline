@@ -1,399 +1,367 @@
-Website
+abort 中断、中止
 
-DOCTYPE
+accept 接受
 
-head
+address 地址
 
-title
+align 排列
 
-body
+animation 动画
 
-versions
+application 应用
 
-tag
+area 区域
 
-element
+Array 数组
 
-parameter
+async 异步
 
-content
+asynchronously 异步
 
-lowercase
+attributes 属性
 
-uppercase
+background 背景
 
-attributes
+base 基础
 
-width
+blockquote 标记长的引用
 
-height
+blur 使模糊
 
-src - source
+body 身体
 
-language
+bold 黑体的、更粗的
 
-href
+Boolean 布尔型
 
-screen
+border 边框
 
-comment
+Bottom 底部
 
-search
+button 按钮
 
-hyperlink
+canvas 帆布
 
-address
+case 例子
 
-area
+catch 捕捉
 
-image
+charset 字符集
 
-sound
+children 孩子
 
-bold
+classname 类名
 
-relative
+clear 清除
 
-base
+clickable 可点击
 
-Specifies
+client 委托人
 
-default
+Collapse 合并、关闭
 
-color
+color 颜色
 
-size
+column 行
 
-font
+comment 评论、意见
 
-Overrides
+concat 连接
 
-direction
+console 控制台
 
-section
+container 容器
 
-blockquote
+content 内容
 
-clickable
+continue 继续
 
-button
+cookie 本地存储
 
-section
+coordinate 坐标
 
-JavaScript
+count 记数、数
 
-graphics
+cursor 光标
 
-table
+data 数据
 
-canvas
+Date 日期
 
-column
+Decoration 装饰、修饰
 
-machine
+default 系统默认值
 
-data
+delete 删除
 
-delete
+detail 详述
 
-Represent
+direction 方向
 
-application
+DOCTYPE 文档类型
 
-external
+download 下载
 
-footer
+draggable 可拖动的
 
-frame
+drop-down 下拉列表
 
-label
+element 元素
 
-highlight
+enable 使能够
 
-mark
+error 错误
 
-measurement
+event 事件
 
-navigation
+external 外部
 
-sample
+fetch 取
 
-client
+filter 过滤器
 
-drop-down
+flex 弹性
 
-resources
+float 浮点
 
-important
+flow 流动
 
-span
+focus 焦点
 
-strong
+font 字体
 
-style
+footer 页脚
 
-template
+form 表单
 
-multiline
+frame 框
 
-variable
+geolocation 地理定位
 
-container
+Global 全球的
 
-accept
+graphics 图形、图表算法
 
-charset
+grow 生长、发育
 
-align
+head 头
 
-private
+height 高度
 
-async
+hidden 隐藏
 
-asynchronously
+highlight 强调
 
-focus
+history 历史
 
-classname
+href 连接
 
-visible
+hyperlink 超链接
 
-coordinate
+icon 图标
 
-preferences
+image 图片
 
-download
+important 重要的
 
-form
+Indent 缩进
 
-draggable
+index 指标、指数
 
-hidden
+input 输入
 
-label
+instance 例子
 
-loop
+invalid 无效的
 
-max
+JavaScript Java Script语言
 
-method
+join 连接、结合
 
-multiple
+JSON json符号对象
 
-validate
+justify 排列整齐
 
-mute
+label 标签
 
-abort
+language 语言
 
-unload
+loop 重复
 
-blur
+lowercase 小写字母
 
-error
+machine 机器装置
 
-input
+margin 外边框
 
-invalid
+mark 标记
 
-paste
+Math 计算算数
 
-history
+max 最大
 
-Storage
+measurement 测量
 
-resume
+method 方法
 
-pause
+multiline 多线
 
-wait
+multiple 倍数
 
-placeholder
+mute 静音
 
-pattern
+navigation 导航栏
 
-readonly
+null 空
 
-sandbox
+Number 数字
 
-scope
+opacity 透明值
 
-step
+Operators 操作者
 
-target
+order 命令
 
-translate
+Orientation 方向
 
-value
+Origin 起源
 
-type
+outline 轮廓
 
-wrap
+overflow 溢出
 
-Array
+Overrides 复写，重写
 
-Boolean
+padding 内边距
 
-Date
+parameter 参数
 
-Global
+paste 黏贴
 
-JSON
+pattern 模式
 
-Math
+pause 暂停
 
-Number
+perspective 立体效果
 
-Operators
+placeholder 占位符
 
-RegExp
+position 位置
 
-Statements
+preferences 参数选择
 
-String
+private 私有的
 
-console
+promise 承诺、保证
 
-event
+protocol 草案
 
-geolocation
+readonly 只读的
 
-children
+RegExp 正则表达式
 
-concat
+relative 相对定位
 
-continue
+remove 移动
 
-cookie
+repeat 重复
 
-enable
+Represent 构成
 
-count
+resize 调整大小
 
-Transfer
+resources 资源
 
-detail
+resume 简历
 
-join
+return 返回
 
-index
+sample 样品
 
-protocol
+sandbox 沙盘
 
-repeat
+scope 范围
 
-remove
+screen 屏幕
 
-return
+search 搜索
 
-throw
+section 部分
 
-while
+Shadow 阴影
 
-switch
+Shrink 收缩
 
-case
+size 大小
 
-fetch
+sound 声音
 
-promise
+source 来源
 
-catch
+span 行内元素标签
 
-write
+Specifies 指定
 
-null
+src 来源
 
-undefined
+Statements 声明
 
-instance
+step 步骤
 
-background
+Storage 仓库
 
-animation
+String 字符串
 
-Origin
+strong 强调文本标签
 
-Visibility
+style 样式
 
-border
+switch 分支
 
-Bottom
+table 列表
 
-Collapse
+tag 标签
 
-clear
+target 目标
 
-cursor
+template 模板
 
-filter
+throw 抛
 
-flex
+title 标题
 
-grow
+Transfer 转移
 
-flow
+translate 翻译
 
-Shrink
+type 类型
 
-float
+undefined 不明确的
 
-icon
+unload 退出
 
-justify
+uppercase 大写字母
 
-Orientation
+validate 生效
 
-margin
+value 值
 
-opacity
+variable 可变的
 
-order
+versions 版本
 
-outline
+Visibility 能见度
 
-overflow
+visible 可见的
 
-padding
+wait 等待
 
-perspective
+Website 网站
 
-position
+while 当..时候
 
-resize
+width 宽度
 
-Decoration
+wrap 包装
 
-Indent
-
-Shadow
-
-var = orderWords = (ori_array)=>{
-        // var ele = document.getElementById("words");
-        // var ori_str = ele.textContent;
-        // var ori_array = ori_str.split(" ");
-        var words_array = [];
-        for (i = 0; i < ori_array.length; i++) {
-          if (ori_array[i].length > 2) {
-            if (words_array.indexOf(ori_array[i].toLowerCase()) == -1) {
-              words_array.push(ori_array[i].toLowerCase());
-            } else {
-              delete ori_array[i];
-              console.log(i);
-            }
-          } else {
-            delete ori_array[i];
-          }
-        }
-        words_array.sort();
-        ori_array.sort();
-        for (i = 0; i < ori_array.length; i++) {
-          if (words_array.indexOf(ori_array[i]) == -1 && ori_array[i]) {
-            indextemp = words_array.indexOf(ori_array[i].toLowerCase());
-            words_array[indextemp] = ori_array[i];
-          }
-        }
-        console.log(ori_array.sort());
-      }
-
-
+write 书写
