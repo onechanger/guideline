@@ -15,7 +15,7 @@ data: `{ title: 'foo', body: 'bar', userId: 1 }`
 
 ## What is `Promise` and write a function of it ?
 
-## What is `Pre-defined` function ?
+## What is `Pre-defined` parameter ?
 
 ## What does `...` mean ?
 
