@@ -19,7 +19,7 @@ data: `{ title: 'foo', body: 'bar', userId: 1 }`
 
 ## What does `...` mean ?
 
-## Difference between `Undefined`, `null`, and NaN ?
+## Difference between `Undefined`, `null`, and `NaN` ?
 
 ## Regex ?
 

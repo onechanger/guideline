@@ -25,6 +25,7 @@ from `CSS Tutorial` to end of `CSS EXAMPLES`
 from `JS Tutorial` to end of `JS Functions` + `JS JSON`
 Take a look at the feature of ES7 and ES8, especially `fetch` and `promise`
 `https://node.university/blog/7297/es7-es8-post`
+`https://javascript.info/promise-basics`
 
 # break
 
